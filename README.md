@@ -1,7 +1,7 @@
 # Vision-Language Model (VLM)
 
 ## Overview
-This project implements a Vision-Language Model (VLM) that combines a Vision Transformer (ViT) as the vision encoder and a transformer-based decoder for text generation. The model is designed to process multimodal data, such as images and text, to generate meaningful outputs.
+This project implements a Mixture-of-experts Vision-Language Model (VLM) that combines a Vision Transformer (ViT) as the vision encoder and a transformer-based decoder for text generation. The model is designed to process multimodal data, such as images and text, to generate meaningful outputs.
 
 ### Key Features
 - **Vision Transformer (ViT):** Extracts features from images using patch embeddings and self-attention.
