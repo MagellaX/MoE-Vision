@@ -24,6 +24,7 @@ This project implements a Mixture-of-experts Vision-Language Model (VLM) that co
 Install the required libraries:
 ```bash
 pip install torch torchvision pandas pillow
+```
 
 
 Please note that in this simple example(MoE-Vision.ipynb), we are training the entire system end to end, much like Kosmos-1 from Microsoft Research. I left it at this for convenience. In practice, the commonly observed sequence is:
