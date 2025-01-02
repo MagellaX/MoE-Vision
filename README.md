@@ -71,4 +71,4 @@ The input.txt with tinyshakespear and the base64 encoded string representations 
 
 Please note that the implementation emphasizes readability and hackability vs. performance, so there are many ways in which you could improve this. Please try and let me know!
 
-Hope you find this useful. Happy hacking!!
+Hope you find this useful. Happy hacking!
